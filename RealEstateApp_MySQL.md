@@ -1,5 +1,4 @@
-Documentation
-# 🏡 Real Estate Web Application with MySQL
+# 🏡  Documentation of Real Estate Web Application with MySQL
 
 ## 🎯 Objective
 Build a functional Real Estate web application. This project allows users to browse, search, and manage real estate properties.
