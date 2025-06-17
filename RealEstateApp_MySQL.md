@@ -1,3 +1,4 @@
+Documentation
 # 🏡 Real Estate Web Application with MySQL
 
 ## 🎯 Objective
